@@ -113,42 +113,21 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mugman_jump_0002_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1
-        width: 81
-        height: 105
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b77707ced1966c4d0800000000000000
-      internalID: -3114686515038357637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: mugman_jump_0002_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 106
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2
+        width: 81
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5c6ee657cb909ebe0800000000000000
+      spriteID: e993510da5afbf741aea1e8768bdf24c
       internalID: -1447615100194199867
       vertices: []
       indices: 
@@ -157,7 +136,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dcab2ccc377650141a64a30bee2aad5f
     internalID: 0
     vertices: []
     indices: 

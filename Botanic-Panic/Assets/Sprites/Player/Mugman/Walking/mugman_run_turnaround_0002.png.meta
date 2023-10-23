@@ -113,12 +113,12 @@ TextureImporter:
       name: mugman_run_turnaround_0002_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 122
-        height: 156
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2
+        y: 2
+        width: 121
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,7 +133,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8af25c9b115391242913e8de62c081ee
     internalID: 0
     vertices: []
     indices: 

@@ -35,6 +35,7 @@ public class EnemyDropScript : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             other.gameObject.GetComponent<playerHealth>().health -= 1;
+            other.gameObject.GetComponent<CupheadPlayerManager>().gameOver = true;
             Destroy(gameObject);
         }
     }

@@ -113,36 +113,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mugman_run_005_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 39
-        width: 16
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b8daeb8cfc3c8820800000000000000
-      internalID: 2921777313633458361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: mugman_run_005_1
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 128
-        height: 175
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2
+        y: 2
+        width: 126
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -157,7 +136,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 20964f4f8e9af1d4ba38bf9de88b3419
     internalID: 0
     vertices: []
     indices: 

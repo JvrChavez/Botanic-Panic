@@ -113,12 +113,12 @@ TextureImporter:
       name: mugman_jump_0005_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1
-        width: 84
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3
+        y: 2
+        width: 82
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,7 +133,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 72c8be11c5f9499468f2a4ba36abea11
     internalID: 0
     vertices: []
     indices: 

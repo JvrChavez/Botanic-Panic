@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -123,11 +123,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 149
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 132
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -139,73 +139,10 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: mugman_hit_0002_1
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 83
-        width: 124
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 178e6d0d03c73f990800000000000000
-      internalID: -7353397217461868431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mugman_hit_0002_2
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 31
-        width: 112
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2879d778cf74ddfc0800000000000000
-      internalID: -3468536988074928254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mugman_hit_0002_3
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 1
-        width: 49
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be800f5a0b2e4eca0800000000000000
-      internalID: -5988412356169824021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 020c2c324806076419c427bdab4b3501
     internalID: 0
     vertices: []
     indices: 
@@ -214,9 +151,6 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       mugman_hit_0002_0: -4933484636276109287
-      mugman_hit_0002_1: -7353397217461868431
-      mugman_hit_0002_2: -3468536988074928254
-      mugman_hit_0002_3: -5988412356169824021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

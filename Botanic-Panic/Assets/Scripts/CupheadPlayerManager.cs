@@ -4,22 +4,25 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+public enum GameState { Ready, Playing, Ended };
 public class CupheadPlayerManager : MonoBehaviour
 {
     public GameState gameState;
     public Rigidbody2D rig;
-    private Animator anim;
+    public float VelocidadY;
+    public Animator anim;
     [SerializeField] private float velocidadPersonaje;
-    SpriteRenderer spriteCuphead;
+    public SpriteRenderer spriteCuphead;
     private float timeJump = 0f;//Tiempo de salto
     private float velocityInputx;       //Velocidad en X
     private bool canDash = true,parryInProcess=false;        //Variable que controla si se puede realizar un dash
     public float dashCooldown = 0.3f;   //Tiempo de espera mínimo entre dash
+    public bool gameOver=false;
     private void Awake()
     {
         rig=GetComponent<Rigidbody2D>();
-        anim= GetComponentInChildren<Animator>();
-        spriteCuphead=GetComponentInChildren<SpriteRenderer>();
+        anim= GetComponent<Animator>();
+        spriteCuphead=GetComponent<SpriteRenderer>();
     }
     private void FixedUpdate()  //Se mandan llamar las acciones con respectivos metodos
     {
@@ -31,15 +34,18 @@ public class CupheadPlayerManager : MonoBehaviour
             StartCoroutine(dash());
             canDash = false;
         }
+        livemaybe();
     }
-    private void OnTriggerStay2D(Collider2D other)
+    void livemaybe ()
     {
-        if (other.CompareTag("Enemy"))
+        if (gameOver)
         {
+            Debug.Log("Herido");
             anim.Play("hit");
-            rig.AddForce(Vector2.up*30);
+            rig.AddForce(Vector2.up*80);
             GetComponent<BoxCollider2D>().enabled = false;
-            SpawnManager.Instance.StopSpawn(); 
+            //SpawnManager.Instance.StopSpawn();
+            gameOver = false;
         }
     }
     void run()
@@ -49,10 +55,12 @@ public class CupheadPlayerManager : MonoBehaviour
         /*Animator*/anim.SetFloat("run", Mathf.Abs(velocityInputx));//Animacion Run  (Abajo) if se invierte la imagen o no
         /*SpriteRenderer*/spriteCuphead.flipX = velocityInputx < 0 ? true : (velocityInputx > 0 ? false : spriteCuphead.flipX);        
     }
-    void jump()
+    void jump() 
     {
+        VelocidadY = rig.velocity.y;
         if (Input.GetButton("Jump") && rig != null && rig.velocity.y == 0)//Input del salto y verifica que solo salte una vez
         {
+            Debug.Log("Salto");
             timeJump = 0f; // Resetea el tiempo cuando se presiona la tecla
             rig.AddForce(Vector2.up * 250); // Aplica una fuerza inicial de salto
         }
@@ -84,7 +92,7 @@ public class CupheadPlayerManager : MonoBehaviour
     {
         anim.Play("dash");
         float dashDuration = 0.21f;   // Duración total del dash en segundos
-        float dashForce = 300.0f;   // Ajusta la fuerza de dash
+        float dashForce = 30.0f;   // Ajusta la fuerza de dash
         float loopTime = 0f;
         while (loopTime < dashDuration)
         {               
