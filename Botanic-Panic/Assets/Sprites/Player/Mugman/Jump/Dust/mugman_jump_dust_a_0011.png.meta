@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 58873f80a2a29a94da997ff17db3ff6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5786980707835259733
+    second: mugman_jump_dust_a_0011_0
+  - first:
+      213: 9046521449928863072
+    second: mugman_jump_dust_a_0011_1
+  - first:
+      213: -6555483782357028501
+    second: mugman_jump_dust_a_0011_2
+  - first:
+      213: 1549204428258101117
+    second: mugman_jump_dust_a_0011_3
+  - first:
+      213: -4033854448715854178
+    second: mugman_jump_dust_a_0011_4
+  - first:
+      213: -7350671468977707797
+    second: mugman_jump_dust_a_0011_5
+  - first:
+      213: 302546119029963564
+    second: mugman_jump_dust_a_0011_6
+  - first:
+      213: -6590919237551597147
+    second: mugman_jump_dust_a_0011_7
+  - first:
+      213: -3837319247350813558
+    second: mugman_jump_dust_a_0011_8
+  - first:
+      213: -8974673626185203794
+    second: mugman_jump_dust_a_0011_9
+  - first:
+      213: 2159182037192327082
+    second: mugman_jump_dust_a_0011_10
+  - first:
+      213: -167770035030218156
+    second: mugman_jump_dust_a_0011_11
+  - first:
+      213: -476921645527631571
+    second: mugman_jump_dust_a_0011_12
+  - first:
+      213: 5844107924566567958
+    second: mugman_jump_dust_a_0011_13
+  - first:
+      213: -4362442073516925312
+    second: mugman_jump_dust_a_0011_14
+  - first:
+      213: 8643415375883443661
+    second: mugman_jump_dust_a_0011_15
+  - first:
+      213: 469808043371338863
+    second: mugman_jump_dust_a_0011_16
+  - first:
+      213: -6911562947261273911
+    second: mugman_jump_dust_a_0011_17
+  - first:
+      213: -1464118030869393849
+    second: mugman_jump_dust_a_0011_18
+  - first:
+      213: -3631067089734724217
+    second: mugman_jump_dust_a_0011_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 90
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4d07bf4b380bfa0800000000000000
+      internalID: -5786980707835259733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d26f30453bb8d70800000000000000
+      internalID: 9046521449928863072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 99
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6176cd7b3e3605a0800000000000000
+      internalID: -6555483782357028501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 100
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7749ce2831ef7510800000000000000
+      internalID: 1549204428258101117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 85
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e89ac40ced408c0800000000000000
+      internalID: -4033854448715854178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 82
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be42cf69e3b2df990800000000000000
+      internalID: -7350671468977707797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b34f0a71cd23400800000000000000
+      internalID: 302546119029963564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9d276afd95884a0800000000000000
+      internalID: -6590919237551597147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 74
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ca2ebb97a1fbac0800000000000000
+      internalID: -3837319247350813558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaff92803ed837380800000000000000
+      internalID: -8974673626185203794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb04c7f94f6fd10800000000000000
+      internalID: 2159182037192327082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 44
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aa112ca06fbadf0800000000000000
+      internalID: -167770035030218156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 54
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2971ac4a42a169f0800000000000000
+      internalID: -476921645527631571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 51
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ce5d8a1317a1150800000000000000
+      internalID: 5844107924566567958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 36
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e1ece1c0e7573c0800000000000000
+      internalID: -4362442073516925312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd9ea55d7493f770800000000000000
+      internalID: 8643415375883443661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 13
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c15c12de7158600800000000000000
+      internalID: 469808043371338863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 14
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86db55e123510a0800000000000000
+      internalID: -6911562947261273911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 18
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e09cc78686eabe0800000000000000
+      internalID: -1464118030869393849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mugman_jump_dust_a_0011_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78510c858bbdb9dc0800000000000000
+      internalID: -3631067089734724217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

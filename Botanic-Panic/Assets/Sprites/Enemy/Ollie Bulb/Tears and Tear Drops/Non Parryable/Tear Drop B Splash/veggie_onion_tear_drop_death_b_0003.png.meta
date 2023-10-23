@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 7123ef358fee58049ac36a3983ece006
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3496398425163334633
+    second: veggie_onion_tear_drop_death_b_0003_0
+  - first:
+      213: -7436123988980962412
+    second: veggie_onion_tear_drop_death_b_0003_1
+  - first:
+      213: -2480619423636197778
+    second: veggie_onion_tear_drop_death_b_0003_2
+  - first:
+      213: -6990650227725685167
+    second: veggie_onion_tear_drop_death_b_0003_3
+  - first:
+      213: -7784986884334587431
+    second: veggie_onion_tear_drop_death_b_0003_4
+  - first:
+      213: 4248232351543552827
+    second: veggie_onion_tear_drop_death_b_0003_5
+  - first:
+      213: 1979169965733480393
+    second: veggie_onion_tear_drop_death_b_0003_6
+  - first:
+      213: 7216264287221886943
+    second: veggie_onion_tear_drop_death_b_0003_7
+  - first:
+      213: 6805612868398503434
+    second: veggie_onion_tear_drop_death_b_0003_8
+  - first:
+      213: 845377504856290260
+    second: veggie_onion_tear_drop_death_b_0003_9
+  - first:
+      213: -7901572937335642378
+    second: veggie_onion_tear_drop_death_b_0003_10
+  - first:
+      213: 4692538914728017653
+    second: veggie_onion_tear_drop_death_b_0003_11
+  - first:
+      213: 3090085950955844764
+    second: veggie_onion_tear_drop_death_b_0003_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3881dc7d3b58030800000000000000
+      internalID: 3496398425163334633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 87
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b670b51a49dc890800000000000000
+      internalID: -7436123988980962412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eea3fe6c1139dd0800000000000000
+      internalID: -2480619423636197778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e286be7a83cfe90800000000000000
+      internalID: -6990650227725685167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 59
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d17922ecab26f390800000000000000
+      internalID: -7784986884334587431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b631dc0d0c4fa30800000000000000
+      internalID: 4248232351543552827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c78aa5099c677b10800000000000000
+      internalID: 1979169965733480393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfa235c222552460800000000000000
+      internalID: 7216264287221886943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 27
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0658bb98d4627e50800000000000000
+      internalID: 6805612868398503434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3b0169c526bbb00800000000000000
+      internalID: 845377504856290260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6e44f1749f75290800000000000000
+      internalID: -7901572937335642378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe7f03e74f3f1140800000000000000
+      internalID: 4692538914728017653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veggie_onion_tear_drop_death_b_0003_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94f528ecc032ea20800000000000000
+      internalID: 3090085950955844764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

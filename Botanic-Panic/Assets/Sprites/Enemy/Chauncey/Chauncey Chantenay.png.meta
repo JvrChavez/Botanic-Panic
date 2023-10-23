@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: 43b5918b4e30cdc4b9c6c65edcb16286
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2007310466282284099
+    second: Chauncey Chantenay_0
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chauncey Chantenay_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6146
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344eda0eb366bdb10800000000000000
+      internalID: 2007310466282284099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 6146
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea1de5164dc9714da4d8a7a38945c45
+      internalID: -1810697629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_2
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 6146
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c548e9242165dfe44b0751262170adc0
+      internalID: -725046536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_3
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 6146
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b0103f9a5c4e046aabddfb827fe599
+      internalID: 1167965014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_4
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 6146
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466fa444e5fd72d4284e92efba4cc520
+      internalID: 711635947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_5
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 6146
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f244f2c44930a634d8214de7e66a222f
+      internalID: -1065449440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_6
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 6146
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c38ab65281d22d4f9f1fc9a22e6cd47
+      internalID: -434629938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_7
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 6146
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe2c1ac0453504bb8c56ac719d6a74
+      internalID: -1670196390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5591
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357da635d02f08e4399dac625634188a
+      internalID: 329198472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 5591
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b795f3c2719eb5e4abfbd662821a25f0
+      internalID: -1699466334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_10
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 5591
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e1785d2dc106648883366e8dad7b49
+      internalID: 882802928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_11
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 5591
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b701fc71fbc1289419330080d2042cdc
+      internalID: 1670424048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_12
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 5591
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3361d65b6496b62428980ccdcc0e24bf
+      internalID: 275245279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_13
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 5591
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c81cb4ffebc494c9f84a973fd8574e
+      internalID: -778304908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_14
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 5591
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5204bea2f18ebad4a9aae6d5d9ca0d4b
+      internalID: 2030675025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_15
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 5591
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79b90ee53cb5854cbb51c24913e877f
+      internalID: -1778020958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5036
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2007ddaf0eb78141a90bf0c9fc4c1f4
+      internalID: 1416644288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_17
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 5036
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9081d38d17d38408d2996785d6e017
+      internalID: 1513115110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_18
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 5036
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07c6d68d21a2a4b82b026bc2382ece
+      internalID: 2096408058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_19
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 5036
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5609732591b7fa94298d4cb613f90f38
+      internalID: -2007493005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_20
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 5036
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b379c1104892748bae8ec04157bdf5
+      internalID: 926835274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_21
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 5036
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e913c8d71955da47a65db01c514629b
+      internalID: 19513861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_22
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 5036
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219735e7beacb9346b13d28d3d39c9ad
+      internalID: -908724564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_23
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 5036
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed368a5ad114ce40a3aca6cc9cb72c8
+      internalID: -324174460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4481
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa218a2099df7cc4baece3761a1efae4
+      internalID: 721693284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_25
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 4481
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22278fbdcd539af41b9fbb7a759cedf6
+      internalID: -1123830844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_26
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 4481
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4efbdcc56e10a4fbf037241dcd2ce7
+      internalID: -1671464702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_27
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 4481
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c8c38ef3c78d644ae8d739ed519978
+      internalID: -1907635122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_28
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 4481
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4a944b26829d418b5055e5fd14e33
+      internalID: -1178051316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_29
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 4481
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcdf746eb8f9424397493e4717a0133
+      internalID: -1355039827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_30
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 4481
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4600ee2477cffb341a621195c877fa2b
+      internalID: 2024436578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_31
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 4481
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e206e2b0378f0e48961d3cbd8cdfd3c
+      internalID: 386606221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3926
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6095f01c2c2cbde4fa6b3017a65d60c3
+      internalID: 289597949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_33
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 3926
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f7a6bf5fe64549a3f88831a9c606d
+      internalID: -1298469698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_34
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 3926
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4316dbab248b72469ed0d469047099f
+      internalID: 1072815507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_35
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3926
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adf7bb304647fc42819fe6e3fbf0c9c
+      internalID: 1122675498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_36
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 3926
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1848ec40aeea4f245a57f9b922bc5395
+      internalID: 1114856740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_37
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3926
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74b8e8e1f3d49b4d9c1543ee5e3be42
+      internalID: 661907717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_38
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 3926
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e3af565f1e3d740b520610ea2802f9
+      internalID: -1767118950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_39
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 3926
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cf3989d3ea3824cad153054cdbf7ee
+      internalID: 1811790727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3371
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27323bcd417ba8d46b7b445e24e81dcd
+      internalID: 572053874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_41
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 3371
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c6b0a2c26e614a8624b5b5b095e09
+      internalID: 615411214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_42
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 3371
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74451bb50210a14bb6ed70536d67fd3
+      internalID: -287327262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_43
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3371
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff781dbc98b9941aaf2267d1b1d6b7
+      internalID: -1932059087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_44
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 3371
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3fc0dfd8a38d428c25eb2bee276c6
+      internalID: 455648794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_45
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3371
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d578d8707dd556a4eb3708c84c2e7541
+      internalID: 1484509772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_46
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 3371
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7327597a0effd043ab0c64d73ef1612
+      internalID: 456697828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_47
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 3371
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0efbe77da6e2345a2b6cb17c25ede9
+      internalID: -909979144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce2971880f4d0f449526013672ec4c3
+      internalID: -49220850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_49
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2816
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ff0096e49e87a4db8c5e2255b78f7e
+      internalID: 2015285585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_50
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2816
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c83e95fd1a459d439e350baad48e8cf
+      internalID: 1359948805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_51
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2816
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f0e10beaf96ca499184d170c810333
+      internalID: -467387173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_52
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 2816
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd029222b4508e944970e4d61945ce63
+      internalID: 605496434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_53
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2816
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a45e536e36fb744bfc215ea45e5a74
+      internalID: 779233666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_54
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 2816
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5516fe40fb1ef42a0f9a10971e7bce
+      internalID: 1801536449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_55
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 2816
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b98232ea1186b49a054149dc8f97a6
+      internalID: 1357342038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2261
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3644f084a5d85ad45a0ce9dfad774b82
+      internalID: -1674887498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_57
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2261
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfdc3aeb27f1d84a99025be546dd330
+      internalID: -1868711015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_58
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2261
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83da9125bfdf7ad41a55e182a8a2f952
+      internalID: -954650844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_59
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2261
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5cd9847dbed83488e333628f301211
+      internalID: -1332502952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_60
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 2261
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f5769d2aa43a47b2140ad51f07409
+      internalID: -182100907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_61
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2261
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d508ec06c8b9441a28f7f922fc18a4
+      internalID: 960560209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_62
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 2261
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b05be907718f4abf3bfb4319c90c6
+      internalID: 61816186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_63
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 2261
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20165337e5086e48a8ed8f70c350073
+      internalID: 904468928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1706
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d5d3c65b852ef4cb9ad8720bc81634
+      internalID: 396922848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_65
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1706
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3983a61b65ef45348aee3deab34143f4
+      internalID: -1733419014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_66
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1706
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6666bae90cee74b901c72f4ef211de
+      internalID: -1158112096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_67
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1706
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e92ff7c2f21340a2a148b1a5f2162
+      internalID: -1131144523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_68
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1706
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270662955d93aa4e840d4554b5e233f
+      internalID: 1128693931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_69
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1706
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85de01a200840c44a865c919c56c3a0f
+      internalID: 279703862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_70
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1706
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587315d800bfe49429a5b7553cd3a6b0
+      internalID: 1946385040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_71
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 1706
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2f49bfee3eced46a1d0d067c113378
+      internalID: 1977664651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c0d843a09472f4d840c961ee733145
+      internalID: -305790758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_73
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1151
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9a0aab0095ec74f9624f157f23b567
+      internalID: -489051371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_74
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1151
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d62f7d65a7a2b43856b133b9040517
+      internalID: 1075756843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_75
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1151
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82504e5884a9c64ab597b2047edb447
+      internalID: -678549921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_76
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1151
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a264e1b6a7184eb411a5f39380f44
+      internalID: -1017350896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_77
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1151
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e8d5d03591c234b90ca46a7fe3bf96
+      internalID: 33373864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_78
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1151
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3e1484c1077ba4092afb450c5bcbee
+      internalID: 1306319146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_79
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 1151
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b71214975ea94a41b6cdfada43d2673
+      internalID: 1767475063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0876e0d5d02134c95ccf942123aa1f
+      internalID: 404039527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_81
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 596
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f857d7349a584aaa992aff48b990a
+      internalID: -895256892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_82
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 596
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d112ce6576ea348954534e2801d950
+      internalID: -331587859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_83
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 596
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ffd4f315144d74b9138a9687be50bc
+      internalID: 577146936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_84
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 596
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b02e2565223a442b12a7986e34af85
+      internalID: -877658817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_85
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 596
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae716130a6aad40b5067095228df30
+      internalID: -2059240710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_86
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 596
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec1114eb6ec6a42876fe6b5f58242d
+      internalID: 1579186802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_87
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 596
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfcfc170a54cdc4fad992e9ba1c1122
+      internalID: 1804954560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59519a1f318dc1c4c8418a204810580a
+      internalID: 1340420634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_89
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 41
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e403054f7d3e4c848b391e90f479e
+      internalID: -337585187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_90
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 41
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd999f869d3c4e42957a3e01269456f
+      internalID: 699193013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_91
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 41
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4017cb1bb3189ef4b8c61a00030b6baf
+      internalID: -1614209256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_92
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 41
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d80b5defa059bc43befcc2c82c75316
+      internalID: 413054544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_93
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 41
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d7673888a363b46b2c5a84f6d99ba0
+      internalID: -394370476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_94
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 41
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7203c6e0d249c1e47ae26171f962438a
+      internalID: -1550647366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chauncey Chantenay_95
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 41
+        width: 590
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9b3e20379defb46a2539e269f08e9d
+      internalID: -1318964392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 07947f7176874634c8b4fc7d425da5de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chauncey Chantenay_0: 2007310466282284099
+      Chauncey Chantenay_1: -1810697629
+      Chauncey Chantenay_10: 882802928
+      Chauncey Chantenay_11: 1670424048
+      Chauncey Chantenay_12: 275245279
+      Chauncey Chantenay_13: -778304908
+      Chauncey Chantenay_14: 2030675025
+      Chauncey Chantenay_15: -1778020958
+      Chauncey Chantenay_16: 1416644288
+      Chauncey Chantenay_17: 1513115110
+      Chauncey Chantenay_18: 2096408058
+      Chauncey Chantenay_19: -2007493005
+      Chauncey Chantenay_2: -725046536
+      Chauncey Chantenay_20: 926835274
+      Chauncey Chantenay_21: 19513861
+      Chauncey Chantenay_22: -908724564
+      Chauncey Chantenay_23: -324174460
+      Chauncey Chantenay_24: 721693284
+      Chauncey Chantenay_25: -1123830844
+      Chauncey Chantenay_26: -1671464702
+      Chauncey Chantenay_27: -1907635122
+      Chauncey Chantenay_28: -1178051316
+      Chauncey Chantenay_29: -1355039827
+      Chauncey Chantenay_3: 1167965014
+      Chauncey Chantenay_30: 2024436578
+      Chauncey Chantenay_31: 386606221
+      Chauncey Chantenay_32: 289597949
+      Chauncey Chantenay_33: -1298469698
+      Chauncey Chantenay_34: 1072815507
+      Chauncey Chantenay_35: 1122675498
+      Chauncey Chantenay_36: 1114856740
+      Chauncey Chantenay_37: 661907717
+      Chauncey Chantenay_38: -1767118950
+      Chauncey Chantenay_39: 1811790727
+      Chauncey Chantenay_4: 711635947
+      Chauncey Chantenay_40: 572053874
+      Chauncey Chantenay_41: 615411214
+      Chauncey Chantenay_42: -287327262
+      Chauncey Chantenay_43: -1932059087
+      Chauncey Chantenay_44: 455648794
+      Chauncey Chantenay_45: 1484509772
+      Chauncey Chantenay_46: 456697828
+      Chauncey Chantenay_47: -909979144
+      Chauncey Chantenay_48: -49220850
+      Chauncey Chantenay_49: 2015285585
+      Chauncey Chantenay_5: -1065449440
+      Chauncey Chantenay_50: 1359948805
+      Chauncey Chantenay_51: -467387173
+      Chauncey Chantenay_52: 605496434
+      Chauncey Chantenay_53: 779233666
+      Chauncey Chantenay_54: 1801536449
+      Chauncey Chantenay_55: 1357342038
+      Chauncey Chantenay_56: -1674887498
+      Chauncey Chantenay_57: -1868711015
+      Chauncey Chantenay_58: -954650844
+      Chauncey Chantenay_59: -1332502952
+      Chauncey Chantenay_6: -434629938
+      Chauncey Chantenay_60: -182100907
+      Chauncey Chantenay_61: 960560209
+      Chauncey Chantenay_62: 61816186
+      Chauncey Chantenay_63: 904468928
+      Chauncey Chantenay_64: 396922848
+      Chauncey Chantenay_65: -1733419014
+      Chauncey Chantenay_66: -1158112096
+      Chauncey Chantenay_67: -1131144523
+      Chauncey Chantenay_68: 1128693931
+      Chauncey Chantenay_69: 279703862
+      Chauncey Chantenay_7: -1670196390
+      Chauncey Chantenay_70: 1946385040
+      Chauncey Chantenay_71: 1977664651
+      Chauncey Chantenay_72: -305790758
+      Chauncey Chantenay_73: -489051371
+      Chauncey Chantenay_74: 1075756843
+      Chauncey Chantenay_75: -678549921
+      Chauncey Chantenay_76: -1017350896
+      Chauncey Chantenay_77: 33373864
+      Chauncey Chantenay_78: 1306319146
+      Chauncey Chantenay_79: 1767475063
+      Chauncey Chantenay_8: 329198472
+      Chauncey Chantenay_80: 404039527
+      Chauncey Chantenay_81: -895256892
+      Chauncey Chantenay_82: -331587859
+      Chauncey Chantenay_83: 577146936
+      Chauncey Chantenay_84: -877658817
+      Chauncey Chantenay_85: -2059240710
+      Chauncey Chantenay_86: 1579186802
+      Chauncey Chantenay_87: 1804954560
+      Chauncey Chantenay_88: 1340420634
+      Chauncey Chantenay_89: -337585187
+      Chauncey Chantenay_9: -1699466334
+      Chauncey Chantenay_90: 699193013
+      Chauncey Chantenay_91: -1614209256
+      Chauncey Chantenay_92: 413054544
+      Chauncey Chantenay_93: -394370476
+      Chauncey Chantenay_94: -1550647366
+      Chauncey Chantenay_95: -1318964392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
