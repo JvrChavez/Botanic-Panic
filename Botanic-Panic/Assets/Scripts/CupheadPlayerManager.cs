@@ -40,11 +40,9 @@ public class CupheadPlayerManager : MonoBehaviour
     {
         if (gameOver)
         {
-            Debug.Log("Herido");
             anim.Play("hit");
             rig.AddForce(Vector2.up*80);
             GetComponent<BoxCollider2D>().enabled = false;
-            //SpawnManager.Instance.StopSpawn();
             gameOver = false;
         }
     }
@@ -92,7 +90,7 @@ public class CupheadPlayerManager : MonoBehaviour
     {
         anim.Play("dash");
         float dashDuration = 0.21f;   // Duración total del dash en segundos
-        float dashForce = 30.0f;   // Ajusta la fuerza de dash
+        float dashForce = 200.0f;   // Ajusta la fuerza de dash
         float loopTime = 0f;
         while (loopTime < dashDuration)
         {               

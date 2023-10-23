@@ -117,11 +117,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 25
-        width: 203
-        height: 108
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 204
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,31 +133,10 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: mugman_dash_0006_1
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 1
-        width: 103
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 874bdfcae0e0e4ee0800000000000000
-      internalID: -1275066188304632712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7dbc8b93678f54a4081de81e5ecb5ddb
     internalID: 0
     vertices: []
     indices: 

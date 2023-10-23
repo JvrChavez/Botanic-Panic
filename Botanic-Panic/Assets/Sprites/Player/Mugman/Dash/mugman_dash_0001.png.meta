@@ -120,11 +120,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 42
-        width: 255
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 254
+        height: 166
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.0047529265}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -136,52 +136,10 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: mugman_dash_0001_1
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 39
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10d8e8d7d11abb8e0800000000000000
-      internalID: -1676569288232760063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mugman_dash_0001_2
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 1
-        width: 106
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c39485547f70aeb0800000000000000
-      internalID: -4710625072601852986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 34d6b50a0d980a74da3f62dc5735477f
     internalID: 0
     vertices: []
     indices: 
