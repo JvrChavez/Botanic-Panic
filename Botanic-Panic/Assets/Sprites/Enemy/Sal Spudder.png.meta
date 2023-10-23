@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sal Spudder_0: -6851720920850715020
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
