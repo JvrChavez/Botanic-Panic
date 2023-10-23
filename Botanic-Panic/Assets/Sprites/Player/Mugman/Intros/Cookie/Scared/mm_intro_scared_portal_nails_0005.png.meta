@@ -236,7 +236,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mm_intro_scared_portal_nails_0005_0: 4695930292972454282
+      mm_intro_scared_portal_nails_0005_1: -3703361058405796751
+      mm_intro_scared_portal_nails_0005_2: 6600231378551173411
+      mm_intro_scared_portal_nails_0005_3: 4942916900145816884
+      mm_intro_scared_portal_nails_0005_4: -4537302016377680649
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mugman_shoot_straight_boil_0001_0: 4390968774378159352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

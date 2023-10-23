@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      veggie_onion_death_leave_0001_0: 5198013412640123404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

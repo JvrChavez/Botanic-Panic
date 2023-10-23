@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      veggie_onion_bashful_leave_0027_0: 5650575216968130022
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

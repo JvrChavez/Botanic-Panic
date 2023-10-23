@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player_mm_mausoleum_scared_0: -4697340837488930229
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

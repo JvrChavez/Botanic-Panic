@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player_mm_scared_0013_0: 1343467102958607341
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

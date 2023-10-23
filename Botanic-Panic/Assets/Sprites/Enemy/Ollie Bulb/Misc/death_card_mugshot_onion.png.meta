@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death_card_mugshot_onion_0: 1602251289527204983
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

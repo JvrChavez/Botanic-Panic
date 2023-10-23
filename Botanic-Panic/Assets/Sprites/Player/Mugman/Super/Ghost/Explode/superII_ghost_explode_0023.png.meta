@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      superII_ghost_explode_0023_0: 2784659675435858013
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mugman_dash_air_0001_0: 2587984910937964028
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -164,7 +164,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mugman_shoot_diagonal_down_boil_0001_0: -9056804317258847100
+      mugman_shoot_diagonal_down_boil_0001_1: 8322480947700297355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

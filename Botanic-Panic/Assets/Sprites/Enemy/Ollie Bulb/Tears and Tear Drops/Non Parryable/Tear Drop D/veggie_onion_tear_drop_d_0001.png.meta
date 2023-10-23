@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      veggie_onion_tear_drop_d_0001_0: 812924049119773409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mugman_duck_turn_0001_mirrored_0: 4909161628452498621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

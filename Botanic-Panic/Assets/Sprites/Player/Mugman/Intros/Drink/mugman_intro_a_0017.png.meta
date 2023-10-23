@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mugman_intro_a_0017_0: -1789074754449278003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -308,7 +308,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      veggie_onion_intro_dirt_0005_0: 6756359891301411530
+      veggie_onion_intro_dirt_0005_1: -6442219438114038943
+      veggie_onion_intro_dirt_0005_2: -2846216852021579292
+      veggie_onion_intro_dirt_0005_3: 8584653304534420181
+      veggie_onion_intro_dirt_0005_4: -1449062230724911534
+      veggie_onion_intro_dirt_0005_5: -4417681618370311775
+      veggie_onion_intro_dirt_0005_6: 8644906652549373896
+      veggie_onion_intro_dirt_0005_7: -8776964990527101660
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -476,7 +476,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      veggie_onion_tear_drop_death_pink_0005_0: -3022866467633211476
+      veggie_onion_tear_drop_death_pink_0005_1: 3594278504783792293
+      veggie_onion_tear_drop_death_pink_0005_10: 881895346907523107
+      veggie_onion_tear_drop_death_pink_0005_11: 4264289444009870407
+      veggie_onion_tear_drop_death_pink_0005_12: 1625006390151831499
+      veggie_onion_tear_drop_death_pink_0005_13: 2804221666797866219
+      veggie_onion_tear_drop_death_pink_0005_14: -5767711304404570163
+      veggie_onion_tear_drop_death_pink_0005_2: -8477601295925226030
+      veggie_onion_tear_drop_death_pink_0005_3: -881642241371970744
+      veggie_onion_tear_drop_death_pink_0005_4: -4216902885556020033
+      veggie_onion_tear_drop_death_pink_0005_5: 4708763851805109140
+      veggie_onion_tear_drop_death_pink_0005_6: -7477030938554210855
+      veggie_onion_tear_drop_death_pink_0005_7: -7950233008683791248
+      veggie_onion_tear_drop_death_pink_0005_8: -6148517717863942140
+      veggie_onion_tear_drop_death_pink_0005_9: 3844581656162249399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

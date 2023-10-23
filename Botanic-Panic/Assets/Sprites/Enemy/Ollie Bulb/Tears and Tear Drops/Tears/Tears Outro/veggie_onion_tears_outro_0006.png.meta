@@ -236,7 +236,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      veggie_onion_tears_outro_0006_0: 2444622006757181968
+      veggie_onion_tears_outro_0006_1: 5746259899928026192
+      veggie_onion_tears_outro_0006_2: 5710415309409343095
+      veggie_onion_tears_outro_0006_3: -4895283255326767591
+      veggie_onion_tears_outro_0006_4: 9158974983374420713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

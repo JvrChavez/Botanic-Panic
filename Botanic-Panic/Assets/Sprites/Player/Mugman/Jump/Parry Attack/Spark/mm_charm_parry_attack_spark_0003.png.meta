@@ -644,7 +644,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mm_charm_parry_attack_spark_0003_0: -7822722642141009951
+      mm_charm_parry_attack_spark_0003_1: 3405196585193852457
+      mm_charm_parry_attack_spark_0003_10: -3075913296597980924
+      mm_charm_parry_attack_spark_0003_11: 5795913569382468610
+      mm_charm_parry_attack_spark_0003_12: -7365250838442006372
+      mm_charm_parry_attack_spark_0003_13: -7585461333673852454
+      mm_charm_parry_attack_spark_0003_14: -7159908443078474460
+      mm_charm_parry_attack_spark_0003_15: -8261273744256467469
+      mm_charm_parry_attack_spark_0003_16: 4055183204953652683
+      mm_charm_parry_attack_spark_0003_17: -729697248574525738
+      mm_charm_parry_attack_spark_0003_18: -2962513610828473669
+      mm_charm_parry_attack_spark_0003_19: 1850569143987062305
+      mm_charm_parry_attack_spark_0003_2: 2265003118948938272
+      mm_charm_parry_attack_spark_0003_20: 1524618362745360759
+      mm_charm_parry_attack_spark_0003_21: -6475352000538822877
+      mm_charm_parry_attack_spark_0003_3: 6434764493281119155
+      mm_charm_parry_attack_spark_0003_4: -639671276144830601
+      mm_charm_parry_attack_spark_0003_5: -5054354467384680246
+      mm_charm_parry_attack_spark_0003_6: 8336315564346280071
+      mm_charm_parry_attack_spark_0003_7: 8797771346478916266
+      mm_charm_parry_attack_spark_0003_8: 6334580022169543047
+      mm_charm_parry_attack_spark_0003_9: -5544893656781049062
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player_mm_superII_bodyfloat_0024_0: 91001062384363096
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

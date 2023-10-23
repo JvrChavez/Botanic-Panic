@@ -356,7 +356,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mm_charm_parry_attack_spark_0002_0: -6820163769148327345
+      mm_charm_parry_attack_spark_0002_1: -6831744203710469435
+      mm_charm_parry_attack_spark_0002_2: 5974022200942373969
+      mm_charm_parry_attack_spark_0002_3: -4014511272054253120
+      mm_charm_parry_attack_spark_0002_4: -7033030312431823453
+      mm_charm_parry_attack_spark_0002_5: 2062516675173199690
+      mm_charm_parry_attack_spark_0002_6: -4300288199092375325
+      mm_charm_parry_attack_spark_0002_7: 2056828069377849892
+      mm_charm_parry_attack_spark_0002_8: -3307230602177948926
+      mm_charm_parry_attack_spark_0002_9: 4782488868721624512
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mm_intro_scared_portal_003_0: -4126473619695807583
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

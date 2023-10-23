@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player_mm_superII_ghost_intro_0012_0: -7386216850605609970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

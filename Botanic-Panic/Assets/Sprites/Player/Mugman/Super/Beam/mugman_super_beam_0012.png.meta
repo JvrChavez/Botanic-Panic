@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mugman_super_beam_0012_0: 5354417898374556481
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

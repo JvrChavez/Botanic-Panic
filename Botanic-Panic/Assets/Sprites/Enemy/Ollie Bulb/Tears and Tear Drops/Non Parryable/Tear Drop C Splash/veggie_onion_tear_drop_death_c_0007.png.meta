@@ -284,7 +284,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      veggie_onion_tear_drop_death_c_0007_0: -8499629504839361849
+      veggie_onion_tear_drop_death_c_0007_1: -7237433553430830834
+      veggie_onion_tear_drop_death_c_0007_2: 4288138326165225720
+      veggie_onion_tear_drop_death_c_0007_3: 2883171889148247816
+      veggie_onion_tear_drop_death_c_0007_4: 1387329448429129642
+      veggie_onion_tear_drop_death_c_0007_5: 1007926045184001372
+      veggie_onion_tear_drop_death_c_0007_6: 2159598508956012684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

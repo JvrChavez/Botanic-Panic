@@ -164,7 +164,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      veggie_onion_cry_0009_0: -6020728012519708627
+      veggie_onion_cry_0009_1: -2704999843057605259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

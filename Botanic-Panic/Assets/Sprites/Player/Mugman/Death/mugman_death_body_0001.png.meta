@@ -164,7 +164,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mugman_death_body_0001_0: -6574671438999075052
+      mugman_death_body_0001_1: -6261086491206037986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mm_charm_parry_attack_0006_0: -1056910281872738861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

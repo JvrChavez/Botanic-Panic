@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player_mm_powerup_0005_0: -4229416496402735241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

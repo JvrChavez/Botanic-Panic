@@ -356,7 +356,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mugman_jump_dust_b_0014_0: 4683441197251603293
+      mugman_jump_dust_b_0014_1: -5044227412228083482
+      mugman_jump_dust_b_0014_2: 4615461949914438044
+      mugman_jump_dust_b_0014_3: 5596491049646996184
+      mugman_jump_dust_b_0014_4: 3083429128245005723
+      mugman_jump_dust_b_0014_5: -6394073107995753410
+      mugman_jump_dust_b_0014_6: -9133052066356205080
+      mugman_jump_dust_b_0014_7: -8601989543883750960
+      mugman_jump_dust_b_0014_8: -6052322191361744115
+      mugman_jump_dust_b_0014_9: 6650685189157825018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

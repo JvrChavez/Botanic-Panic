@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mm_superIII_0008_0: 2300083353791018022
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

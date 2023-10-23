@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mugman_ex_diagonal_down_0014_0: 1480467063699718412
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
