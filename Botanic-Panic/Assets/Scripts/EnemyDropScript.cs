@@ -48,7 +48,6 @@ public class EnemyDropScript : MonoBehaviour
                 {
                     player.hit(); // Llama al método en el objeto "player"
                 }                                
-
             }
         }
     }

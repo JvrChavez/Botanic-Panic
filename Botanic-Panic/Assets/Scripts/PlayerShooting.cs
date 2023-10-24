@@ -8,7 +8,6 @@ public class PlayerShooting : MonoBehaviour
     public Transform bulletPos;
     public void shoot()
     {
-        Debug.Log("Disparo");
         Instantiate(bullet, bulletPos.position, Quaternion.identity);
     }
 }
