@@ -73,7 +73,6 @@ public class CupheadPlayerManager : MonoBehaviour
         VelocidadY = rig.velocity.y;
         if (Input.GetButton("Jump") && rig != null && rig.velocity.y == 0)//Input del salto y verifica que solo salte una vez
         {
-            Debug.Log("Salto");
             timeJump = 0f; // Resetea el tiempo cuando se presiona la tecla
             rig.AddForce(Vector2.up * 250); // Aplica una fuerza inicial de salto
         }
