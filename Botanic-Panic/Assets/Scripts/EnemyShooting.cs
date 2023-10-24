@@ -7,11 +7,6 @@ public class EnemyShooting : MonoBehaviour
     public GameObject drop;
     public Transform dropPos;
     private float timer;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()

@@ -1,6 +1,7 @@
 using NUnit.Framework.Constraints;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.IO.LowLevel.Unsafe;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -10,6 +11,8 @@ public class CupheadPlayerManager : MonoBehaviour
     public GameState gameState;
     public Rigidbody2D rig;
     public float VelocidadY;
+    public float cooldown; // Tiempo de cooldown en segundos
+    private float lastShotTime = 0f; // Tiempo del último disparo
     public Animator anim;
     [SerializeField] private float velocidadPersonaje;
     public SpriteRenderer spriteCuphead;
@@ -28,6 +31,7 @@ public class CupheadPlayerManager : MonoBehaviour
     {
         run();
         jump();
+        fire();
         candash();
         if (Input.GetButton("Dash") && canDash)//If dash
         {
@@ -35,10 +39,20 @@ public class CupheadPlayerManager : MonoBehaviour
             canDash = false;
         }                     
     }
+    void fire()
+    {
+        if (Input.GetButton("Fire1") && Time.time - lastShotTime >= cooldown)
+        {
+            PlayerShooting shotting = gameObject.GetComponent<PlayerShooting>();
+            shotting.shoot();
+            lastShotTime = Time.time; // Actualiza el tiempo del último disparo
+        }
+    }
     public void gameOver()
     {
         anim.Play("death");
-        rig.velocityY = 2f;
+        rig.gravityScale = 0f;
+        rig.velocityY = 1f;
     }
     public void hit ()
     {
@@ -91,7 +105,7 @@ public class CupheadPlayerManager : MonoBehaviour
     {
         anim.Play("dash");
         float dashDuration = 0.21f;   // Duración total del dash en segundos
-        float dashForce = 200.0f;   // Ajusta la fuerza de dash
+        float dashForce = 100.0f;   // Ajusta la fuerza de dash
         float loopTime = 0f;
         while (loopTime < dashDuration)
         {               

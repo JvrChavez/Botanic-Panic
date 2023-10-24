@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: e86f7c1eff3d2a84aa3b623d7cd99744
+guid: 7ad79058782b3234a9e201db709b73c5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6020728012519708627
-    second: veggie_onion_cry_0009_0
-  - first:
-      213: -2704999843057605259
-    second: veggie_onion_cry_0009_1
+      213: -3070453432627086885
+    second: Peashooter_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -113,22 +110,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: veggie_onion_cry_0009_0
+      name: Peashooter_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 477
-        height: 566
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 1373
+        width: 463
+        height: 191
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d28e48495c3127ca0800000000000000
-      internalID: -6020728012519708627
+      spriteID: d35d22e3b3cadf649b405f24f0dcf7ff
+      internalID: 128644136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peashooter_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1382
+        width: 392
+        height: 182
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada99327d6eb824ca4bb5c7861bee3a
+      internalID: -650287250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peashooter_2
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1387
+        width: 420
+        height: 177
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb97da81ab0356c4691912d8fc6a003d
+      internalID: 1811571837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peashooter_3
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1382
+        width: 435
+        height: 182
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd31a2eb6eb5fbd4992f2d39fd74ff86
+      internalID: -2121402157
       vertices: []
       indices: 
       edges: []
@@ -136,7 +196,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 9f770c099fa75e742aa73c766932f1cf
+    spriteID: 143149b52f5b96c4bad90b7f55bce551
     internalID: 0
     vertices: []
     indices: 
@@ -144,8 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      veggie_onion_cry_0009_0: -6020728012519708627
-      veggie_onion_cry_0009_1: -2704999843057605259
+      Peashooter_0: 128644136
+      Peashooter_1: -650287250
+      Peashooter_2: 1811571837
+      Peashooter_3: -2121402157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
