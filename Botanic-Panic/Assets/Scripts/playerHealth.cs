@@ -32,8 +32,7 @@ public class playerHealth : MonoBehaviour
         {
             Debug.Log("0");
             anim.Play("health0");
-            Destroy(gameObject);
-            gameObject.GetComponent<CupheadPlayerManager>().gameOver = true;
+            //Destroy(gameObject);
         }
     }
 }

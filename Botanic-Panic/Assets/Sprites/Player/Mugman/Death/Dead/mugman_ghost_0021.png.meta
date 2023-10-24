@@ -113,12 +113,12 @@ TextureImporter:
       name: mugman_ghost_0021_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 144
-        height: 192
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2
+        y: 2
+        width: 142
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,7 +133,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4358345da9c82d4419c3c1e315bee510
     internalID: 0
     vertices: []
     indices: 

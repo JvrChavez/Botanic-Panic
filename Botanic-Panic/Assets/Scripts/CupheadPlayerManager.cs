@@ -17,7 +17,7 @@ public class CupheadPlayerManager : MonoBehaviour
     private float velocityInputx;       //Velocidad en X
     private bool canDash = true,parryInProcess=false;        //Variable que controla si se puede realizar un dash
     public float dashCooldown = 0.3f;   //Tiempo de espera mínimo entre dash
-    public bool gameOver=false;
+    public bool gameHit = false, gameHitFlag = true;
     private void Awake()
     {
         rig=GetComponent<Rigidbody2D>();
@@ -33,18 +33,19 @@ public class CupheadPlayerManager : MonoBehaviour
         {
             StartCoroutine(dash());
             canDash = false;
-        }
-        livemaybe();
+        }                     
     }
-    void livemaybe ()
+    public void gameOver()
     {
-        if (gameOver)
-        {
-            anim.Play("hit");
-            rig.AddForce(Vector2.up*80);
-            GetComponent<BoxCollider2D>().enabled = false;
-            gameOver = false;
-        }
+        anim.Play("death");
+        rig.velocityY = 2f;
+    }
+    public void hit ()
+    {
+        anim.Play("hit");
+        rig.AddForce(Vector2.up*300);
+        /*GetComponent<BoxCollider2D>().enabled = false;
+        gameHitFlag = false;*/ //Guardaremos esto para la animacion death
     }
     void run()
     {        

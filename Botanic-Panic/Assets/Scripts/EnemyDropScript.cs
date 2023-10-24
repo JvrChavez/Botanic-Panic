@@ -36,6 +36,17 @@ public class EnemyDropScript : MonoBehaviour
         {
             other.gameObject.GetComponent<playerHealth>().health -= 1;
             Destroy(gameObject);
+
+            CupheadPlayerManager player = other.gameObject.GetComponent<CupheadPlayerManager>();
+            if (player != null)
+            {
+                player.hit(); // Llama al método en el objeto "player"
+                if (other.gameObject.GetComponent<playerHealth>().health <0)
+                {
+                    player.gameOver();
+                }
+
+            }
         }
     }
 }

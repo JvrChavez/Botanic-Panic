@@ -113,12 +113,12 @@ TextureImporter:
       name: mugman_aim_straight_0002_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 136
-        height: 166
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 130
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -133,7 +133,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cefa48ea460266c40b48f02c214e268e
     internalID: 0
     vertices: []
     indices: 

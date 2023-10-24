@@ -422,7 +422,8 @@ MonoBehaviour:
   velocidadPersonaje: 3
   spriteCuphead: {fileID: 0}
   dashCooldown: 0.3
-  gameOver: 0
+  gameHit: 0
+  gameHitFlag: 1
 --- !u!70 &106571540
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
