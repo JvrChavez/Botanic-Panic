@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerHealth : MonoBehaviour
+public class Health : MonoBehaviour
 {
     public GameObject spriteHealth;
     private Animator anim;
@@ -18,25 +18,35 @@ public class playerHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (health == 4)
+        if (health == 5)
         {
-            anim.Play("health4");
+            anim.ResetTrigger("health1");
+            anim.SetTrigger("health5");
+        }
+        else if (health == 4)
+        {
+            anim.ResetTrigger("health5");
+            anim.SetTrigger("health4");
         }
         else if (health == 3)
         {
-            anim.Play("health3");
+            anim.ResetTrigger("health4");
+            anim.SetTrigger("health3");
         }
         else if (health == 2)
         {
-            anim.Play("health2");
+            anim.ResetTrigger("health3");
+            anim.SetTrigger("health2");
         }
         else if (health == 1)
         {
-            anim.Play("health1");
+            anim.ResetTrigger("health2");
+            anim.SetTrigger("health1");
         }
         else if (health < 1)
         {
-            anim.Play("health0");
+            anim.ResetTrigger("health1");
+            anim.SetTrigger("health0");
         }
     }
 }

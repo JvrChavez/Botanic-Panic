@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 60f45bddc6a30fb4999b99738b624645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6851720920850715020
+    second: Sal Spudder_0
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sal Spudder_0
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 4005
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ea49cdf1cc9e0a0800000000000000
+      internalID: -6851720920850715020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_1
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 4005
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf6b35f52894c945a8c9991fdf1555e
+      internalID: 1290182749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_2
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 4005
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f534d8f58714bd46875d0142ba30bd8
+      internalID: 1087547970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_3
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4005
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb66c5fd6164f42ac8bffe51015a65
+      internalID: -1290010705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3489
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc5170e560813d4b9bcb1ee08000c08
+      internalID: -51291404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3489
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba637620d797f44a5c9f36c45e6a00
+      internalID: -832481966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_6
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 3489
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66755bfe5de91e46a405a7e1ea4a104
+      internalID: -1069046402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_7
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3489
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e1990279de9f47ac87e7a3c45fc2c
+      internalID: -230022725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_8
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 3489
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ba92eafac5d74b942cf4068a5aa4c
+      internalID: 1545233106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_9
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 3489
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47607183ce025284dbd6c13b694469ca
+      internalID: -729756985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2972
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b020e513eca2e44eb2d730ec2dcd81c
+      internalID: 428698652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2972
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406ad3472f9c1a347b0a6ec1c9577353
+      internalID: -1671336071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2392
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8589ed076b7234793cc4ea56102115
+      internalID: -1705973907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2392
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8de87b8721c6043bba82876e40766d
+      internalID: 1225442343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_14
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2392
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f58f9ef11745040a3f47831a0b4f74
+      internalID: 1524562016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_15
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2392
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d73177ca9b47544aac156152961269b
+      internalID: -850045568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_16
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2392
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d33209dd141544f9de2243505284cb
+      internalID: 1692469985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_17
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2392
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9882ed083cb3ad949bd290084d1d5175
+      internalID: 1067137167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1875
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f4fb2f8188a64ca41863a95917363
+      internalID: -31821532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1875
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6006eaf293d564bac88af6137d36ef
+      internalID: 1981531596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_20
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1875
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8855e1ff26d78c34e925ecfb35b9c0bd
+      internalID: 132021439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_21
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1875
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c6c922ed9f80045abacbe0aa11a9c6
+      internalID: 1700555593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_22
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1875
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359a63baf17a3fe4a8d2061879a398d0
+      internalID: -1146556275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_23
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1877
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9caa0cd4bf7f8c4ba2a58b6b30790fb
+      internalID: -1786581589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1358
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8f0f352426914b97cf0cb595f5f4e
+      internalID: -865160653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1358
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485cd30b37104384bbb108d5c56e37cc
+      internalID: -285169924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_26
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1358
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb2250845e3ac45a9ba583ec7f53fa
+      internalID: 1763874513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_27
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1358
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc060a6c987967e4a9e7babc7b6c15a3
+      internalID: 793441144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_28
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1358
+        width: 517
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8504d57628b97c341a485d7ff5fcd53d
+      internalID: 475466792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 852
+        width: 296
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeeff520f95bf84783bae93f6d04dce
+      internalID: -161780677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_30
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 852
+        width: 296
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1358930bb38c5340bb5144787c15e8d
+      internalID: 297804192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_31
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 852
+        width: 296
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e8359f96e6820498f4fff11cca1576
+      internalID: 185375849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_32
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 852
+        width: 296
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470a8efc46373a549b6f7725e813e4c9
+      internalID: -623961621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_33
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 852
+        width: 296
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a086a697faf7d248af11cd3bdfa691e
+      internalID: -1978825181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_34
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 852
+        width: 296
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed5532575398f4fbd8702a12d6235d
+      internalID: 260407652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_35
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 852
+        width: 296
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667700e128630f44aafd858e2ddbe5de
+      internalID: -989052468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_36
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 852
+        width: 296
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9632d5100a8e3574590b5ad08b7ed1c5
+      internalID: -658879444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_37
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 852
+        width: 296
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3891b8acc2943046ab3fc5e15901c0d
+      internalID: 1390270591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 653
+        width: 128
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24394547ac0e93d47bb0d17ff3b1bcfb
+      internalID: -2050611708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 653
+        width: 128
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323621944c8ecc344ac34e006ee0089c
+      internalID: -931142207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 653
+        width: 127
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb44ba971bf124459867076f6bff373
+      internalID: 1663441058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_41
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 653
+        width: 129
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3751e11663f524a42a2fc0e9c8c7802f
+      internalID: 508169615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_42
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 653
+        width: 127
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f03cb4341e1a44d98806976b77ccb4
+      internalID: 972238552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_43
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 653
+        width: 127
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b2ca4f3b6833647a65133b815aa48a
+      internalID: 667565932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_44
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 653
+        width: 127
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cd88184cd40ea44878ad219c3680ff
+      internalID: -70243774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_45
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 653
+        width: 127
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05e9898f82e8145bb59ec2965032f3
+      internalID: -4320126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_46
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 651
+        width: 124
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337590de6bf01ad429c922acd1773e6c
+      internalID: -913053522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_47
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 652
+        width: 124
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b7d1b8d3bd4284191a1f0db25ce3cd
+      internalID: -327738594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_48
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 652
+        width: 124
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249a3ce37a5a2984799ddff46e14e2b2
+      internalID: -1525699696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder_49
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 653
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61c54513e9591b4d90a1d25f3778e17
+      internalID: 923908812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4999259da7edf1346b677aece585aed5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sal Spudder_0: -6851720920850715020
+      Sal Spudder_1: 1290182749
+      Sal Spudder_10: 428698652
+      Sal Spudder_11: -1671336071
+      Sal Spudder_12: -1705973907
+      Sal Spudder_13: 1225442343
+      Sal Spudder_14: 1524562016
+      Sal Spudder_15: -850045568
+      Sal Spudder_16: 1692469985
+      Sal Spudder_17: 1067137167
+      Sal Spudder_18: -31821532
+      Sal Spudder_19: 1981531596
+      Sal Spudder_2: 1087547970
+      Sal Spudder_20: 132021439
+      Sal Spudder_21: 1700555593
+      Sal Spudder_22: -1146556275
+      Sal Spudder_23: -1786581589
+      Sal Spudder_24: -865160653
+      Sal Spudder_25: -285169924
+      Sal Spudder_26: 1763874513
+      Sal Spudder_27: 793441144
+      Sal Spudder_28: 475466792
+      Sal Spudder_29: -161780677
+      Sal Spudder_3: -1290010705
+      Sal Spudder_30: 297804192
+      Sal Spudder_31: 185375849
+      Sal Spudder_32: -623961621
+      Sal Spudder_33: -1978825181
+      Sal Spudder_34: 260407652
+      Sal Spudder_35: -989052468
+      Sal Spudder_36: -658879444
+      Sal Spudder_37: 1390270591
+      Sal Spudder_38: -2050611708
+      Sal Spudder_39: -931142207
+      Sal Spudder_4: -51291404
+      Sal Spudder_40: 1663441058
+      Sal Spudder_41: 508169615
+      Sal Spudder_42: 972238552
+      Sal Spudder_43: 667565932
+      Sal Spudder_44: -70243774
+      Sal Spudder_45: -4320126
+      Sal Spudder_46: -913053522
+      Sal Spudder_47: -327738594
+      Sal Spudder_48: -1525699696
+      Sal Spudder_49: 923908812
+      Sal Spudder_5: -832481966
+      Sal Spudder_50: 2057811765
+      Sal Spudder_6: -1069046402
+      Sal Spudder_7: -230022725
+      Sal Spudder_8: 1545233106
+      Sal Spudder_9: -729756985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

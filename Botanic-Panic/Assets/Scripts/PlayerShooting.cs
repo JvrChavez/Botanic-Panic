@@ -4,10 +4,14 @@ using UnityEngine;
 
 public class PlayerShooting : MonoBehaviour
 {
-    public GameObject bullet;
+    public GameObject bullet,bullet2;
     public Transform bulletPos;
-    public void shoot()
+    public void shootBlue()
     {
         Instantiate(bullet, bulletPos.position, Quaternion.identity);
+    }
+    public void shootRed()
+    {
+        Instantiate(bullet2, bulletPos.position, Quaternion.identity);
     }
 }

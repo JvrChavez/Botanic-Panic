@@ -5,10 +5,9 @@ using Unity.IO.LowLevel.Unsafe;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public enum GameState { Ready, Playing, Ended };
 public class CupheadPlayerManager : MonoBehaviour
 {
-    public GameState gameState;
+    public GameObject Manager;    
     public Rigidbody2D rig;
     public float VelocidadY;
     public float cooldown; // Tiempo de cooldown en segundos
@@ -20,7 +19,7 @@ public class CupheadPlayerManager : MonoBehaviour
     private float velocityInputx;       //Velocidad en X
     private bool canDash = true,parryInProcess=false;        //Variable que controla si se puede realizar un dash
     public float dashCooldown = 0.3f;   //Tiempo de espera mínimo entre dash
-    public bool gameHit = false, gameHitFlag = true;
+    private GameState gameState;
     private void Awake()
     {
         rig=GetComponent<Rigidbody2D>();
@@ -29,6 +28,7 @@ public class CupheadPlayerManager : MonoBehaviour
     }
     private void FixedUpdate()  //Se mandan llamar las acciones con respectivos metodos
     {
+        gameState = GameManager.Instance.gameState;
         run();
         jump();
         fire();
@@ -41,22 +41,29 @@ public class CupheadPlayerManager : MonoBehaviour
     }
     void fire()
     {
-        if (Input.GetButton("Fire1") && Time.time - lastShotTime >= cooldown)
+        if (Input.GetButton("Fire1") && Time.time - lastShotTime >= cooldown && gameState!=GameState.Ended)
         {
             PlayerShooting shotting = gameObject.GetComponent<PlayerShooting>();
-            shotting.shoot();
+            shotting.shootBlue();
+            lastShotTime = Time.time; // Actualiza el tiempo del último disparo
+        }else if (Input.GetButton("Fire2") && Time.time - lastShotTime >= cooldown && gameState != GameState.Ended)
+        {
+            PlayerShooting shotting = gameObject.GetComponent<PlayerShooting>();
+            shotting.shootRed();
             lastShotTime = Time.time; // Actualiza el tiempo del último disparo
         }
     }
     public void gameOver()
     {
-        anim.Play("death");
+        GameManager gameManager = Manager.gameObject.GetComponent<GameManager>();
+        gameManager.gameChanged("Ended");
+        anim.SetTrigger("death");
         rig.gravityScale = 0f;
         rig.velocityY = 1f;
     }
     public void hit ()
     {
-        anim.Play("hit");
+        anim.SetTrigger("hit");
         rig.AddForce(Vector2.up*300);
         /*GetComponent<BoxCollider2D>().enabled = false;
         gameHitFlag = false;*/ //Guardaremos esto para la animacion death
@@ -66,7 +73,7 @@ public class CupheadPlayerManager : MonoBehaviour
         /*float*/velocityInputx = Input.GetAxisRaw("Horizontal");//Se toma el input teclado
         /*Rigidbody2D*/rig.velocity = new Vector2(velocityInputx * velocidadPersonaje, rig.velocity.y);//Se mueve horizontal
         /*Animator*/anim.SetFloat("run", Mathf.Abs(velocityInputx));//Animacion Run  (Abajo) if se invierte la imagen o no
-        /*SpriteRenderer*/spriteCuphead.flipX = velocityInputx < 0 ? true : (velocityInputx > 0 ? false : spriteCuphead.flipX);        
+        /*SpriteRenderer*/spriteCuphead.flipX = velocityInputx < 0 ? true : (velocityInputx > 0 ? false : spriteCuphead.flipX);
     }
     void jump() 
     {
@@ -102,7 +109,7 @@ public class CupheadPlayerManager : MonoBehaviour
     }
     IEnumerator dash()
     {
-        anim.Play("dash");
+        anim.SetTrigger("dash");
         float dashDuration = 0.21f;   // Duración total del dash en segundos
         float dashForce = 100.0f;   // Ajusta la fuerza de dash
         float loopTime = 0f;
